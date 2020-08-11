@@ -4,9 +4,8 @@
 ### About
 
 -  **Learning :** Full-Stack Development :fire:	
--  **Languages :** JavaScript, Typescript, Dart
+-  **Languages :** JavaScript, Typescript, Dart :heart:
 -  **Hobbies :** Code & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organization :** SUpervision Sistemas de Segurança
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
