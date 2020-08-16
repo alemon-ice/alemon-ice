@@ -6,6 +6,5 @@
 -  **Learning :** Full-Stack Development :fire:	
 -  **Languages :** JavaScript, Typescript, Dart :heart:
 -  **Hobbies :** Code & Music :headphones:
--  **Organization :** Supervision Sistemas de Segurança
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
