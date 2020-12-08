@@ -5,7 +5,7 @@
 ### About
 
 -  **Learning :** Full-Stack Development :computer:
--  **Languages :** JavaScript, Typescript, Dart :fire:
+-  **Stack :** Node.js, React and Typescript :fire:
 -  **Hobbies :** Code & Music :headphones:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
