@@ -4,7 +4,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Development with Next.js :computer:
 -  **Stack :** Node.js, React and Typescript :fire:
 -  **Hobbies :** Code & Music :headphones:
 
